@@ -3,4 +3,4 @@ Code 1
 Code 2
 Code 3
 code 4
-mod
+<<<<<<< HEAD
